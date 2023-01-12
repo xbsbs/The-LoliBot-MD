@@ -7,25 +7,25 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario ⋅.━━━━ ⊰  
 global.owner = [
-  ['5492266466080', '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫', true],
-  ['5492266613038', '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫', true],
-  ['56964787183', '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫', true],
-//['593968585383'], DEJEN ESTO ASÍ POR AHORA POR FAVOR
-  ['573183650526'] 
+  ['201098906252', '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹', true],
+  ['201098906252', '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹', true],
+  ['201098906252', '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹', true],
+//['201098906252'], DEJEN ESTO ASÍ POR AHORA POR FAVOR
+  ['201098906252'] 
 ]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.mods = ['50495745934'] 
-global.prems = ['595986172767', '5493704555464'], 
+global.mods = ['201098906252'] 
+global.prems = ['201098906252', '201098906252'], 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
-//Agrega el Idioma que quieres que tenga 𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫
+//Agrega el Idioma que quieres que tenga𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻-𝑴𝑫
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = es  //Idioma de 𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫, Ejemplo: es | en | pt...
+global.lenguajeGB = es  //Idioma de 𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻-𝑴𝑫, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -103,7 +103,7 @@ global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = 'Toma tu sticker'
-global.author = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.author = '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻-𝑴𝑫'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -113,7 +113,7 @@ global.author = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
 global.vs = '1.4.5'
 global.version = vs
 
-global.lb = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.lb = '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻-𝑴𝑫'
 global.lolibot = lb
 
 global.yt = 'https://www.youtube.com/@TheLoliBot-MD'
