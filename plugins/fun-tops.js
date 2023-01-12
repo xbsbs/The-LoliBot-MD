@@ -1,5 +1,6 @@
-import util from 'util'
+/*import util from 'util'
 import path from 'path' 
+
 
 function handler(m, { groupMetadata, command, usedPrefix, conn }) {
    let user = a => '@' + a.split('@')[0] //'@' + a.split('@')[0]
@@ -14,7 +15,7 @@ let f = ps.getRandom()
 let g = ps.getRandom()
 let h = ps.getRandom()
 let i = ps.getRandom()
-let j = ps.getRandom() 
+let j = ps.getRandom()
 
 if (command == 'topgays') {
 let vn = './media/gay2.mp3'
@@ -193,21 +194,6 @@ let top = `*_😱TOP 10 SHIPOSTERS DEL GRUPO😱_*
 *_10.- 🤠 ${user(j)}_* 🤠`
 m.reply(top, null, { mentions: conn.parseMention(top) })}
    
-if (command == 'toppajeros') {
-let top = `*_😏TOP L@S MAS PAJEROS/AS DEL GRUPO💦_* 
-    
-*_1.- 🥵 ${user(a)}_* 💦
-*_2.- 🥵 ${user(b)}_* 💦
-*_3.- 🥵 ${user(c)}_* 💦
-*_4.- 🥵 ${user(d)}_* 💦
-*_5.- 🥵 ${user(e)}_* 💦
-*_6.- 🥵 ${user(f)}_* 💦
-*_7.- 🥵 ${user(g)}_* 💦
-*_8.- 🥵 ${user(h)}_* 💦
-*_9.- 🥵 ${user(i)}_* 💦
-*_10.- 🥵 ${user(j)}_* 💦`
-m.reply(top, null, { mentions: conn.parseMention(top) })}
-   
 if (command == 'toppajer@s') {
 let top = `*_😏TOP L@S MAS PAJEROS/AS DEL GRUPO💦_* 
     
@@ -251,21 +237,6 @@ let top = `*_😳TOP L@S MAS LIND@S Y SEXIS DEL GRUPO😳_*
 *_8.- ✨ ${user(h)}_* ✨
 *_9.- ✨ ${user(i)}_* ✨
 *_10.- ✨ ${user(j)}_* ✨`
-m.reply(top, null, { mentions: conn.parseMention(top) })}
-   
-if (command == 'topputos') {
-let top = `*_😏TOP L@S MAS PUT@S DEL GRUPO SON🔥_* 
-    
-*_1.- 👉 ${user(a)}_* 👌
-*_2.- 👉 ${user(b)}_* 👌
-*_3.- 👉 ${user(c)}_* 👌
-*_4.- 👉 ${user(d)}_* 👌
-*_5.- 👉 ${user(e)}_* 👌
-*_6.- 👉 ${user(f)}_* 👌
-*_7.- 👉 ${user(g)}_* 👌
-*_8.- 👉 ${user(h)}_* 👌
-*_9.- 👉 ${user(i)}_* 👌
-*_10.- 👉 ${user(j)}_* 👌`
 m.reply(top, null, { mentions: conn.parseMention(top) })}
    
 if (command == 'topput@s') {
@@ -312,21 +283,6 @@ let top = `*_🌟TOP PERSONAS FAMOSAS EN EL GRUPO🌟_*
 *_9.- 🤩 ${user(i)}_* 🤩
 *_10.- 🛫 ${user(j)}_* 🛫`
 m.reply(top, null, { mentions: conn.parseMention(top) })}
-
-if (command == 'topsostero') {
-let top = `*_😏TOP PERSONAS SOLTERO/A DEL GRUPO😏_* 
-    
-*_1.- 😎 ${user(a)}_* 😎
-*_2.- 😏 ${user(b)}_* 😏
-*_3.- 😏 ${user(c)}_* 😏
-*_4.- 😎 ${user(d)}_* 😎
-*_5.- 😏 ${user(e)}_* 😏
-*_6.- 😎 ${user(f)}_* 😎
-*_7.- 😏 ${user(g)}_* 😏
-*_8.- 😎 ${user(h)}_* 😎
-*_9.- 😎 ${user(i)}_* 😎
-*_10.- 😏 ${user(j)}_* 😏`
-m.reply(top, null, { mentions: conn.parseMention(top) })}
    
 if (command == 'topparejas') {
 let top = `*_😍 Las 5 maravillosas parejas del grupo 😍_*
@@ -367,9 +323,8 @@ Genial! 💝, están de Luna de miel 🥵✨❤️‍🔥`
 m.reply(top, null, { mentions: conn.parseMention(top) })}
   
 }
-handler.help = handler.command = ['topgays', 'topotakus', 'topintegrantes', 'topintegrante', 'toplagrasa', 'topgrasa', 'toppanafrescos', 'toppanafresco', 'topshiposters', 'topshipost', 'toppajeros', 'toppajer@s', 'toplindos', 'toplind@s', 'topputos', 'topput@s', 'topfamosos', 'topfamos@s', 'topparejas', 'top5parejas' ]
+handler.help = handler.command = ['topgays', 'topotakus', 'topintegrantes', 'topintegrante', 'toplagrasa', 'topgrasa', 'toppanafrescos', 'toppanafresco', 'topshiposters', 'topshipost', 'toppajer@s', 'toplindos', 'toplind@s', 'topput@s', 'topfamosos', 'topfamos@s', 'topparejas', 'top5parejas' ]
 handler.tags = ['games']
 handler.group = true
-handler.money = 90
-handler.register = true
 export default handler  
+*/
