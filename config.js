@@ -7,14 +7,14 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [
-  [' 201098906252 ', '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹 👑 ', true],
-  ['201098906252', '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹 💖', true],
-//  ['201098906252', '𝑬 - 99👤', true],
-  ['+20 109 890 6252']]
+  [' 967771160204 ', '◤𝙀𝙈𝙋𝙀𝙍𝙊𝙍🦂𝘼𝙉𝙐𝙎◢ 👑 ', true],
+  ['967771160204', '◤𝙀𝙈𝙋𝙀𝙍𝙊𝙍🦂𝘼𝙉𝙐𝙎◢ 💖', true],
+//  ['967771160204', '𝑬 - 99👤', true],
+  ['967771160204']]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = [' 201098906252 '], 
+global.prems = [' 967771160204 '], 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
@@ -104,37 +104,37 @@ global.version = vs
 global.gt = '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻-𝑴𝑫'
 global.gatabot = gt
 
-global.yt = 'https://youtube.com/@ABDALLAH_MOHAMED'
+global.yt = 'https://youtube.com/@emperoranus7621'
 global.youtube = yt
 
-global.ig = 'https://www.tiktok.com/@q.r.a.n_0?_t=8YwfdTqNdDR&_r=1'
+global.ig = 'https://youtube.com/@emperoranus7621'
 global.gatadiosig = ig
 
 global.md = 'https://github.com/ahmed1pMD'
 global.gatabot = md
 
-global.nna = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
+global.nna = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
 global.nnagrupo = nna //UPDATE ELGAZAE BOT 
 global.nna2 = 'IxeB9yBYrNp85CLmKykmMM'
 
-global.nn = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
+global.nn = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
 global.nngrupo = nn //Grupo 1
 
-global.nnn = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
+global.nnn = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
 global.nnngrupo = nnn //Grupo 2
 
-global.nnnt = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
+global.nnnt = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
 global.nnntgrupo = nnnt //Grupo 3
 
-global.nnntt = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
+global.nnntt = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
 global.nnnttgrupo = nnntt //Grupo 4
 
-global.nnnttt = 'https://chat.whatsapp.com/ElCR8jxa6Bj2WmfdTF8pgE'
+global.nnnttt = 'https://chat.whatsapp.com/LO17u6F9Fw4LE9izmmyOGz'
 global.nnntttgrupo = nnnttt //Grupo 5
-global.paypal = 'https://youtube.com/@ABDALLAH_MOHAMED'
+global.paypal = 'https://youtube.com/@emperoranus7621'
 global.donar = paypal
 
-global.asistencia = 'Wa.me/201098906252' //
+global.asistencia = 'Wa.me/967771160204' //
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -168,13 +168,13 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información | Information ⋅.━━━━ ⊰
 
-global.wm = ' 𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑨𝑳𝑾𝑨𝒁𝑬𝑹: 𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻-𝑴𝑫'
-global.igfg = 'ELGAZAR-MD'
+global.wm = ' ◤𝙀𝙈𝙋𝙀𝙍𝙊𝙍 𝘼𝙉𝙐𝙎◢: ◤𝘼𝙉𝙐𝙎◢ 𝑩𝑶𝑻-𝑴𝑫'
+global.igfg = 'ANUS-MD'
 global.wait = '*⌛ _جاري التحميل..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _جاري التحميل..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _جاري التحميل..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _جاري التحميل..._ ▬▬▬▬▬▬▭*'
-global.nomorown = ' 201098906252' 
+global.nomorown = ' 967771160204' 
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf']
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
