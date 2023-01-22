@@ -18,13 +18,13 @@ global.prems = [' 967771160204 '],
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
-//Agrega el Idioma que quieres que tenga 𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻-𝑴𝑫
+//Agrega el Idioma que quieres que tenga 𝑬𝑴𝑷𝑬𝑹𝑶𝑹𝑨𝑵𝑼𝑺-𝑴𝑫
 //Add the language you want GataBot-MD to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب  
 
-global.lenguajeGB = ar  //Idioma de 𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻-𝑴𝑫, Ejemplo: es | en | pt...
+global.lenguajeGB = ar  //Idioma de 𝑬𝑴𝑷𝑬𝑹𝑶𝑹𝑨𝑵𝑼𝑺, Ejemplo: es | en | pt...
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -93,15 +93,15 @@ global.imagen1 = fs.readFileSync('./media/menus/Menu3.jpg')
 
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
-global.packname = '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻-𝑴𝑫 🧸'
-global.author = '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻-𝑴𝑫'
+global.packname = '𝑬𝑴𝑷𝑬𝑹𝑶𝑹𝑨𝑵𝑼𝑺 𝑩𝑶𝑻-𝑴𝑫 🧸'
+global.author = '𝑬𝑴𝑷𝑬𝑹𝑶𝑹𝑨𝑵𝑼𝑺 𝑩𝑶𝑻-𝑴𝑫'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.4.5'
 global.version = vs
 
-global.gt = '𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻-𝑴𝑫'
+global.gt = '𝑬𝑴𝑷𝑬𝑹𝑶𝑹𝑨𝑵𝑼𝑺 𝑩𝑶𝑻-𝑴𝑫'
 global.gatabot = gt
 
 global.yt = 'https://youtube.com/@emperoranus7621'
